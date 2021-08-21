@@ -17,6 +17,7 @@ I recently graduated from the University of Georgia with a Bachelors in Buisness
 This section is all of the major projects I have completed in recent years, this includes insurance/ risk analysis case studies I completed on buisnesses, marketing strategies/techniques and cultural evaluations, as well as another website I created to showcase some of my art. 
 
 ### Risk Management 5100s case study
+[RMIN 5100S Case Study.pdf](https://github.com/amysahoo/amysahoo.github.io/files/7025057/RMIN.5100S.Case.Study.pdf)
 
 ```markdown
 Syntax highlighted code block
