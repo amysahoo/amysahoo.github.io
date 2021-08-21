@@ -18,6 +18,7 @@ This section is all of the major projects I have completed in recent years, this
 
 ### Risk Management 5100s case study
 This project is probably the most "hands- on" project i've ever done. In this project my team and I did an analysis on current buisness operations for a local Athens diner known as "The Grill". In order to create this evaluation, we had to obtain the restaurant's previous insurance policies and assess their current buisness operations and how they could reduce the perils (and risks) associated with each operation. 
+
 [RMIN 5100S Case Study.pdf](https://github.com/amysahoo/amysahoo.github.io/files/7025057/RMIN.5100S.Case.Study.pdf)
 
 ```markdown
