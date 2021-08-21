@@ -1,6 +1,6 @@
 # Amy Sahoo
 
-<img src="https://user-images.githubusercontent.com/34382282/130310342-b141b36b-a1b5-4d6b-8f1c-adc9ba2da1fc.jpg" width="300" height="400">
+<img src="https://user-images.githubusercontent.com/34382282/130311760-0ccfd7e9-6ad8-4351-ab67-1bb1dc2e15e8.png" width="300" height="300">
 
 
 ### Get to Know Me
