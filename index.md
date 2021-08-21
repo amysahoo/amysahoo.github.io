@@ -37,12 +37,11 @@ This class was one of the most beneficial classes i've ever taken, just because 
 
 [![alt text][7.1]][7]
 
-[7.1]: https://imgur.com/BBGiFqU.png
+[7.1]: https://user-images.githubusercontent.com/34382282/130319456-91803df0-24b7-4250-96a5-9c5a161c9fa7.JPG 
 
 [7]: https://ks84512.github.io/AmysArtPage/
 
  
-
 #### Follow my Social Media at:
  
  Each icon below is hyperlinked to the social media account associated, so feel free to just click on the icons to access each profile. Listed underneath are the links to each account (they are listed in order so also feel free to copy and paste those in to your browser). Note that there are two separate Instagram accounts, one for my personal use and one for my art.
