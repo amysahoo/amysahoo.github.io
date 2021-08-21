@@ -25,6 +25,11 @@ This project is probably the most "hands- on" project i've ever done. In this pr
 ### Corporate Risk Management 5950 Case Study 
 This project Assessed a company’s Risk Identification and Valuation, based on their previously existing direct property, indirect property, liability and personal risk policies. Also created a Risk Treatment plan in order to combat any issues that were found during the assessment. 
 
+[5950 Corporate RMIN Project.pdf](https://github.com/amysahoo/amysahoo.github.io/files/7025062/5950.Corporate.RMIN.Project.pdf)
+
+### Digital Marketing Strategy 
+This is my favorite project I have created because it allowed me to display my creativity within the project. I had to assess Hard Rock Cafe's competitors and create a new concept for their buisness that could boost sales. I had to do a cost analysis for this proejct as well and how much the company would actually profit from this implementation. This was a very time- consuming project given that I only had a few weeks to complete this individual project. 
+
 
 
 ```markdown
