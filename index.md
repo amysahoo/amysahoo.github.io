@@ -33,6 +33,9 @@ This is my favorite project I have created because it allowed me to display my c
 [Hard Rock Cafe (1).pdf](https://github.com/amysahoo/amysahoo.github.io/files/7025111/Hard.Rock.Cafe.1.pdf)
 
 ### Multicultural Marketing
+This class was very eye-opening and allowed me to understand company culture a lot better. This particular project focuses on Abercrombie & Fitch and how their company culture is very poor, therefore decreasing their sales and customers. The way a company is represented is very crucial to their brand image, and the CEO at the time of the company ruined the reputation of A&F. 
+
+[Marketing A&F.pdf](https://github.com/amysahoo/amysahoo.github.io/files/7025383/Marketing.A.F.pdf)
 
 
 ### Introduction to Technology
