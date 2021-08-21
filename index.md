@@ -81,7 +81,7 @@ This class was one of the most beneficial classes i've ever taken, just because 
 <!-- links to your social media accounts -->
 <!-- update these accordingly -->
 
-[1]: https://www.Linkedin.com/in/amysahoo
+[1]: https://www.Linkedin.com/in/amysahoo 
 [2]: http://www.facebook.com/amy.sahoo
 [3]: http://www.twitter.com/amysahoo
 [4]: http://www.instagram.com/amysahoo
@@ -93,7 +93,7 @@ This class was one of the most beneficial classes i've ever taken, just because 
 <!-- Please don't remove this: Grab your social icons from https://github.com/amysahoo/gitsocial -->
 
             
-LinkedIn: [https://www.Linkedin.com/in/amysahoo ]
+[LinkedIn:] [1] https://www.Linkedin.com/in/amysahoo
 
 Facebook: https://www.facebook.com/amy.sahoo
 
