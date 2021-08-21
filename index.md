@@ -33,7 +33,7 @@ This is my favorite project I have created because it allowed me to display my c
 [Hard Rock Cafe (1).pdf](https://github.com/amysahoo/amysahoo.github.io/files/7025111/Hard.Rock.Cafe.1.pdf)
 
 ### Introduction to Technology
-This class was one of the most beneficial classes i've ever taken, just because it helped me get more familiar with technology. This particular project we had to create a website from scratch using html and Github. I decided to make it about my art because at the time I was doing commission pieces and I decided that it would be a great way to showcase some of my more recent pieces. 
+This class was one of the most beneficial classes i've ever taken, just because it helped me get more familiar with technology. This particular project we had to create a website from scratch using html and Github. I decided to make it about my art because at the time I was doing commission pieces and I decided that it would be a great way to showcase some of my more recent pieces. Click on the cursor icon below to access the page.
 
 [![alt text][7.1]][7]
 
@@ -93,7 +93,7 @@ This class was one of the most beneficial classes i've ever taken, just because 
 <!-- Please don't remove this: Grab your social icons from https://github.com/amysahoo/gitsocial -->
 
             
-LinkedIn: https://www.Linkedin.com/in/amysahoo 
+[LinkedIn:] (https://www.Linkedin.com/in/amysahoo) 
 
 Facebook: https://www.facebook.com/amy.sahoo
 
