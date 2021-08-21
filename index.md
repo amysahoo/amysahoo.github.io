@@ -4,7 +4,7 @@
 <img src="https://user-images.githubusercontent.com/34382282/130311760-0ccfd7e9-6ad8-4351-ab67-1bb1dc2e15e8.png" width="300" height="300">
 
 
-### Get to Know Me
+## Get to Know Me
 I recently graduated from the University of Georgia with a Bachelors in Buisness Administration. My area of focus is in Risk Management, but I also obtained a communications minor. My hobbies include hiking with my dog, tennis, reading, painting, and tactile crafts such as rug- making and embroidery. I spend a lot of my free time volunteering in my community in programs such as Best Buddies, Special Olympics, Nuci's Space, and the public library. 
 
 <img src="https://user-images.githubusercontent.com/34382282/130310342-b141b36b-a1b5-4d6b-8f1c-adc9ba2da1fc.jpg" width="200" height="300"> <img src="https://user-images.githubusercontent.com/34382282/130312234-a4dbb514-0b80-4cf9-9eee-d21307eff9a4.jpeg" width="300" height="300"> <img src="https://user-images.githubusercontent.com/34382282/130312305-9c141fd7-1749-436f-9135-7f2af53b47ac.jpeg" width="200" height="300">
@@ -13,7 +13,8 @@ I recently graduated from the University of Georgia with a Bachelors in Buisness
 
 
 
-### Markdown
+### Projects
+This section is all of the major projects I have completed in recent years, this includes insurance/ risk analysis case studies I completed on buisnesses, marketing strategies/techniques and cultural evaluations, as well as another website I created to showcase some of my art. 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
