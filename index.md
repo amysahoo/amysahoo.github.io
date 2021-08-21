@@ -1,4 +1,5 @@
 # Amy Sahoo
+![IMG_1597_Original](https://user-images.githubusercontent.com/34382282/130310342-b141b36b-a1b5-4d6b-8f1c-adc9ba2da1fc.jpg)
 
 
 ## Get to Know Me
