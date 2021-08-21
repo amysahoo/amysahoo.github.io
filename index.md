@@ -36,7 +36,7 @@ This is my favorite project I have created because it allowed me to display my c
 ##### Follow my Social Media at:
  
 
-LinkedIn: www.linkedin.com/in/amysahoo
+visit LinkedIn: www.linkedin.com/in/amysahoo
 
 Facebook: https://www.facebook.com/amy.sahoo
 
