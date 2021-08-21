@@ -41,7 +41,7 @@ This class was very eye-opening and allowed me to understand company culture a l
 
 
 ### Introduction to Technology
-This class was one of the most beneficial classes i've ever taken, just because it helped me get more familiar with technology. This particular project we had to create a website from scratch using html and Github. I decided to make it about my art because at the time I was doing commission pieces and I decided that it would be a great way to showcase some of my more recent pieces. This project even helped me create this website. Click on the Athens,Ga watercolor below to access this project!
+This class was one of the most beneficial classes i've ever taken, just because it helped me get more familiar with technology. This particular project we had to create a website from scratch using html and Github. I decided to make it about my art because at the time I was doing commission pieces and I decided that it would be a great way to showcase some of my more recent pieces. This project even helped me code this website. Click on the Athens,Ga watercolor below to access this project!
 
 [![alt text][7.1]][7]
 
