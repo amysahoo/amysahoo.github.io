@@ -32,8 +32,11 @@ This is my favorite project I have created because it allowed me to display my c
 
 [Hard Rock Cafe (1).pdf](https://github.com/amysahoo/amysahoo.github.io/files/7025111/Hard.Rock.Cafe.1.pdf)
 
+### Multicultural Marketing
+
+
 ### Introduction to Technology
-This class was one of the most beneficial classes i've ever taken, just because it helped me get more familiar with technology. This particular project we had to create a website from scratch using html and Github. I decided to make it about my art because at the time I was doing commission pieces and I decided that it would be a great way to showcase some of my more recent pieces. Click on the cursor icon below to access the page.
+This class was one of the most beneficial classes i've ever taken, just because it helped me get more familiar with technology. This particular project we had to create a website from scratch using html and Github. I decided to make it about my art because at the time I was doing commission pieces and I decided that it would be a great way to showcase some of my more recent pieces. This project even helped me create this website. Click on the Athens,Ga watercolor below to access this project!
 
 [![alt text][7.1]][7]
 
