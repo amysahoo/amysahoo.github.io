@@ -32,10 +32,14 @@ This is my favorite project I have created because it allowed me to display my c
 
 [Hard Rock Cafe (1).pdf](https://github.com/amysahoo/amysahoo.github.io/files/7025111/Hard.Rock.Cafe.1.pdf)
 
+### Introduction to Technology
+This class was one of the most beneficial classes i've ever taken, just because it helped me get more familiar with technology. This particular project we had to create a website from scratch using html and Github. I decided to make it about my art because at the time I was doing commission pieces and I decided that it would be a great way to showcase some of my more recent pieces. 
+
+
 
 #### Follow my Social Media at:
  
- Each icon below is hyperlinked to the social media account associated, so feel free to just click on the icons to access each profile. Listed underneath are the links to each account (in order so also feel free to copy and paste those in to your browser). Note that there are two separate Instagram accounts, one for my personal use and one for my art.
+ Each icon below is hyperlinked to the social media account associated, so feel free to just click on the icons to access each profile. Listed underneath are the links to each account (they are listed in order so also feel free to copy and paste those in to your browser). Note that there are two separate Instagram accounts, one for my personal use and one for my art.
  <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
 <!-- display the social media buttons in your README -->
