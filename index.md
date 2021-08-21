@@ -13,10 +13,10 @@ I recently graduated from the University of Georgia with a Bachelors in Buisness
 
 
 
-### Projects
+## Projects
 This section is all of the major projects I have completed in recent years, this includes insurance/ risk analysis case studies I completed on buisnesses, marketing strategies/techniques and cultural evaluations, as well as another website I created to showcase some of my art. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Risk Management 5100s case study
 
 ```markdown
 Syntax highlighted code block
