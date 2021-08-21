@@ -93,7 +93,7 @@ This class was one of the most beneficial classes i've ever taken, just because 
 <!-- Please don't remove this: Grab your social icons from https://github.com/amysahoo/gitsocial -->
 
             
-[LinkedIn:] (https://www.Linkedin.com/in/amysahoo) 
+LinkedIn: [https://www.Linkedin.com/in/amysahoo ]
 
 Facebook: https://www.facebook.com/amy.sahoo
 
