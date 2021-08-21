@@ -35,6 +35,7 @@ This is my favorite project I have created because it allowed me to display my c
 
 #### Follow my Social Media at:
  
+ Each icon below is hyperlinked to the social media account associated, so feel free to just click on the icons to access each profile. Listed underneath are the links to each account (in order so also feel free to copy and paste those in to your browser). Note that there are two separate Instagram accounts, one for my personal use and one for my art.
  <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
 <!-- display the social media buttons in your README -->
@@ -81,13 +82,15 @@ This is my favorite project I have created because it allowed me to display my c
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/amysahoo/gitsocial -->
 
-#http://i.imgur.com/tXSoThF.png
-LinkedIn: www.linkedin.com/in/amysahoo
+
+LinkedIn: https://www.Linkedin.com/in/amysahoo
 
 Facebook: https://www.facebook.com/amy.sahoo
 
-Instagram: @amysahoo
+Twitter: http://www.twitter.com/amysahoo
 
-Twitter: @amysahoo
+Personal Instagram: http://www.instagram.com/amysahoo
 
-Art Instagram: @infamy.art
+Art Instagram: http://www.instagram.com/infamy.art
+
+Github: http://www.github.com/amysahoo
