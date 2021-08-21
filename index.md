@@ -1,7 +1,8 @@
-## Amy Sahoo
+# Amy Sahoo
+
 
 ## Get to Know Me
-I am a recent UGA graduate. I obtained my Bachelors in Buisness Administartion with a focus in Risk Management. I also obtained a communications minor. 
+I recently graduated from the University of Georgia with a Bachelors in Buisness Administration. My area of focus is in Risk Management, but I also obtained a communications minor. My hobbies include hiking with my dog, tennis, reading, painting, and tactile crafts such as rug- making and embroidery. I spend a lot of my free time volunteering in my community in programs such as Best Buddies, Special Olympics, Nuci's Space, and the public library. 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
