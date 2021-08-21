@@ -35,7 +35,11 @@ This is my favorite project I have created because it allowed me to display my c
 ### Introduction to Technology
 This class was one of the most beneficial classes i've ever taken, just because it helped me get more familiar with technology. This particular project we had to create a website from scratch using html and Github. I decided to make it about my art because at the time I was doing commission pieces and I decided that it would be a great way to showcase some of my more recent pieces. 
 
-[https://ks84512.github.io/AmysArtPage/]
+[![alt text][7.1]][7]
+
+[7.1]: https://imgur.com/BBGiFqU.png
+
+[7]: https://ks84512.github.io/AmysArtPage/
 
  
 
