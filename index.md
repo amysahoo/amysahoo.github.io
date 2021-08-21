@@ -37,6 +37,7 @@ This class was one of the most beneficial classes i've ever taken, just because 
 
 [Amy's Art Page] (https://ks84512.github.io/AmysArtPage/)
 
+<a href="https://www.something.com"> Something </a> 
 
 #### Follow my Social Media at:
  
@@ -87,8 +88,8 @@ This class was one of the most beneficial classes i've ever taken, just because 
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/amysahoo/gitsocial -->
 
-
-LinkedIn: <a href="/https://www.Linkedin.com/in/amysahoo">
+            
+LinkedIn: https://www.Linkedin.com/in/amysahoo 
 
 Facebook: https://www.facebook.com/amy.sahoo
 
@@ -98,4 +99,4 @@ Personal Instagram: http://www.instagram.com/amysahoo
 
 Art Instagram: http://www.instagram.com/infamy.art
 
-Github: http://www.github.com/amysahoo
+Github: http://www.github.com/amysahoo 
