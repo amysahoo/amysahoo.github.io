@@ -6,7 +6,7 @@
 ### Get to Know Me
 I recently graduated from the University of Georgia with a Bachelors in Buisness Administration. My area of focus is in Risk Management, but I also obtained a communications minor. My hobbies include hiking with my dog, tennis, reading, painting, and tactile crafts such as rug- making and embroidery. I spend a lot of my free time volunteering in my community in programs such as Best Buddies, Special Olympics, Nuci's Space, and the public library. 
 
-<img src="https://user-images.githubusercontent.com/34382282/130310342-b141b36b-a1b5-4d6b-8f1c-adc9ba2da1fc.jpg" width="200" height="300">
+<img src="https://user-images.githubusercontent.com/34382282/130310342-b141b36b-a1b5-4d6b-8f1c-adc9ba2da1fc.jpg" width="200" height="300"> <img src="https://user-images.githubusercontent.com/34382282/130312234-a4dbb514-0b80-4cf9-9eee-d21307eff9a4.jpeg" width="400" height="300">
 
 
 ### Markdown
