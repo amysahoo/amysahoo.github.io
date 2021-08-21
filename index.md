@@ -1,6 +1,7 @@
 ## Amy Sahoo
 
-You can use the [editor on GitHub](https://github.com/amysahoo/amysahoo.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+## Get to Know Me
+I am a recent UGA graduate. I obtained my Bachelors in Buisness Administartion with a focus in Risk Management. I also obtained a communications minor. 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
